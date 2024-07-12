@@ -1,2 +1,5 @@
-No arquivo 01
-arquivo editado pelo GitHub
+Novo arquivo 01
+
+Arquivo editado pelo GitHub
+
+Versão 2
